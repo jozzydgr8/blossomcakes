@@ -1,10 +1,8 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Maitree", serif;
+  font-weight: 300;
+  font-style: normal;
 }
 :root{
   --bg-color:#dc3545
@@ -12,6 +10,9 @@ body {
 h3, h4{
   color: var(--bg-color);
   margin-bottom: 15px;
+  font-family: "Play", serif;
+  font-weight: 700;
+  font-style: normal;
 }
 h3{
   text-align: center;
@@ -30,11 +31,23 @@ section > .container-fluid{
 }
 nav .container-fluid{
   padding: 1% 3%;
+
 }
+
 
 .navbar-brand img{
   width:40%;
 
+}
+@media (max-width:750px) {
+  .navbar-brand img{
+    width:50%;
+  
+  }
+  .navbar-brand{
+    width: 70%;
+
+  }
 }
 .productgrid{
   display: grid;
@@ -65,16 +78,19 @@ nav .container-fluid{
 .aboutgrid{
   min-height: 60vh;
 }
-.cakeBackground{
+.cakeBackground,#contact{
   background-image: url('./assets/cakeshowcase.jpg');
   background-size: cover;
   background-position: center center;
 }
 #contact{
-  background: var(--bg-color);
+  background-image: url('./assets/backgroundblossom.jpg');
+}
+.contact-fluid, .slogan{
+  padding: 3% ;
 }
 #contact h4{
-  color: white;
+  color: black;
 }
 .chefIcon{
   width: 100px;
@@ -113,4 +129,11 @@ nav .container-fluid{
     flex-direction: column;
     align-items: start;
   }
+}
+.slogan{
+  background: var(--bg-color);
+  color: white;
+  font-family: "Great Vibes", serif;
+  font-weight: 400;
+  font-style: normal;
 }

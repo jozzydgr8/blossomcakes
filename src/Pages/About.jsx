@@ -18,10 +18,10 @@ export const About = ()=>{
                             We provide the option of choosing from different shapes, colors, sizes,
                             characters and creative designs, tailored to meet the unique needs of our
                             esteemed customers. 
-                            and also take customize orders
+                            
                         </p>
                         <br/>
-                        <button className="btn btn-lg btn-danger">Contact us Now <SendOutlined/></button>
+                        <button className="btn btn-lg btn-danger">Contact Us Now <SendOutlined/></button>
                     </div>
                 </div>
             </div>
