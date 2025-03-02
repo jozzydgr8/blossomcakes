@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/blossomcakes/static/css/main.0d9caed3.css",
+    "main.js": "/blossomcakes/static/js/main.e9308931.js",
+    "static/js/453.f5975673.chunk.js": "/blossomcakes/static/js/453.f5975673.chunk.js",
+    "static/media/birthday-oreo-cake.jpg": "/blossomcakes/static/media/birthday-oreo-cake.36292548c81b5235a6d5.jpg",
+    "static/media/cakeshowcase.jpg": "/blossomcakes/static/media/cakeshowcase.a5817c5e6a5579bc6b3d.jpg",
+    "static/media/Henessy-cake.jpg": "/blossomcakes/static/media/Henessy-cake.f6d49bafa322ff8cf6dd.jpg",
+    "static/media/anniversary-cake.jpg": "/blossomcakes/static/media/anniversary-cake.d9fd91b5a9692da6fe82.jpg",
+    "static/media/wedding-cake.jpg": "/blossomcakes/static/media/wedding-cake.6f3085b94a7aa0f2a61a.jpg",
+    "static/media/blossomcakes-removebg-preview.png": "/blossomcakes/static/media/blossomcakes-removebg-preview.baba554ec5afdf398233.png",
+    "static/media/jungle-cake.jpg": "/blossomcakes/static/media/jungle-cake.e6e995ffbfb543ba1f7a.jpg",
+    "static/media/female-shoe-birthday-cake.jpg": "/blossomcakes/static/media/female-shoe-birthday-cake.ab5bb6385002c8acea16.jpg",
+    "static/media/beautiful-wedding-cake.jpg": "/blossomcakes/static/media/beautiful-wedding-cake.f2479f05571bce1ef74a.jpg",
+    "static/media/l&r-wedding-cake.jpg": "/blossomcakes/static/media/l&r-wedding-cake.8aba29efe205ed77cc96.jpg",
+    "static/media/cheficon.png": "/blossomcakes/static/media/cheficon.f3441726051643a8c304.png",
+    "static/media/pricetag.png": "/blossomcakes/static/media/pricetag.f2a181100a7ee6b46159.png",
+    "index.html": "/blossomcakes/index.html",
+    "main.0d9caed3.css.map": "/blossomcakes/static/css/main.0d9caed3.css.map",
+    "main.e9308931.js.map": "/blossomcakes/static/js/main.e9308931.js.map",
+    "453.f5975673.chunk.js.map": "/blossomcakes/static/js/453.f5975673.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d9caed3.css",
+    "static/js/main.e9308931.js"
+  ]
+}
