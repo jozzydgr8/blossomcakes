@@ -13,15 +13,16 @@ export const Footer = ()=>{
                     <div className="col-md-4">
                         <h4>Contact Section</h4>
                         Phone No: <a href='tel:08026992881'>+234 802 699 2881</a><br/><br/>
-                        Phone No: <a href='tel:08189042085'>+234 818 904 2085</a><br/><br/>
+                        Phone No: <a href='tel:09114108461'>+234 911 410 8461</a><br/><br/>
+                        Phone No: <a href='tel:08025590852'>+234 802 559 0852</a><br/><br/>
                         Email: <a href='#'>Blossomexampleemail@email.com</a>
                     </div>
 
                     <div className="col-md-4">
                         <h4>Quick Links</h4>
-                        <a href='tel:08026992881'>Call us now: +234 818 904 2085 </a>
+                        <a href='tel:09114108561'>Call us now: +234 911 410 8561 </a>
                         <br/> <br/>
-                        <a href='#'>Send Us a message on Whatsapp <SendOutlined/></a><br/> <br/>
+                        <a href='https://wa.link/o2oy0h'>Send Us a message on Whatsapp <SendOutlined/></a><br/> <br/>
                         <a href='#'>Our Cakes</a>
                     </div>
                 </div>

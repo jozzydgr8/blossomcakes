@@ -16,6 +16,9 @@ export const LayOut = ()=>{
         <Product/>
         <About/>
         <Footer/>
+        <a className='whatsappIcon' href='https://wa.link/o2oy0h' target='_blank'>
+        <img src='https://cdn-icons-png.flaticon.com/128/3670/3670051.png' />
+        </a>
         </>
     )
 }

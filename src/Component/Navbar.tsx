@@ -24,7 +24,8 @@ function Navbar() {
           <a className="nav-link" href="#">Occassion</a>
         </li>
         <li className="nav-item">
-          <button className="btn btn-danger">Contact Us</button>
+          <a  href='https://wa.link/o2oy0h'><button className="btn btn-danger">Contact Us</button></a>
+        
         </li>
       </ul>
     </div>

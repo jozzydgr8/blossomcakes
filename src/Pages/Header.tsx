@@ -16,7 +16,7 @@ export const Header:React.FC = ()=>{
                             <h4> Exquisite Ingredients</h4>
                         
                         <p>
-                        We use only the freshest, frefined Ingredients
+                        We use only the freshest, refined Ingredients
                         to ensure rich flavors and a moist texture in every
                         bite. No shortcuts-just pure, delicious goodness.
                         </p>
