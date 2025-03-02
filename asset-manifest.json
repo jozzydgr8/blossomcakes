@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/blossomcakes/static/css/main.0d9caed3.css",
-    "main.js": "/blossomcakes/static/js/main.e9308931.js",
+    "main.css": "/blossomcakes/static/css/main.eb7f5a68.css",
+    "main.js": "/blossomcakes/static/js/main.c7496cbe.js",
     "static/js/453.f5975673.chunk.js": "/blossomcakes/static/js/453.f5975673.chunk.js",
     "static/media/birthday-oreo-cake.jpg": "/blossomcakes/static/media/birthday-oreo-cake.36292548c81b5235a6d5.jpg",
     "static/media/cakeshowcase.jpg": "/blossomcakes/static/media/cakeshowcase.a5817c5e6a5579bc6b3d.jpg",
@@ -12,16 +12,17 @@
     "static/media/jungle-cake.jpg": "/blossomcakes/static/media/jungle-cake.e6e995ffbfb543ba1f7a.jpg",
     "static/media/female-shoe-birthday-cake.jpg": "/blossomcakes/static/media/female-shoe-birthday-cake.ab5bb6385002c8acea16.jpg",
     "static/media/beautiful-wedding-cake.jpg": "/blossomcakes/static/media/beautiful-wedding-cake.f2479f05571bce1ef74a.jpg",
+    "static/media/backgroundblossom.jpg": "/blossomcakes/static/media/backgroundblossom.d6a06af1631412d2ba8d.jpg",
     "static/media/l&r-wedding-cake.jpg": "/blossomcakes/static/media/l&r-wedding-cake.8aba29efe205ed77cc96.jpg",
     "static/media/cheficon.png": "/blossomcakes/static/media/cheficon.f3441726051643a8c304.png",
     "static/media/pricetag.png": "/blossomcakes/static/media/pricetag.f2a181100a7ee6b46159.png",
     "index.html": "/blossomcakes/index.html",
-    "main.0d9caed3.css.map": "/blossomcakes/static/css/main.0d9caed3.css.map",
-    "main.e9308931.js.map": "/blossomcakes/static/js/main.e9308931.js.map",
+    "main.eb7f5a68.css.map": "/blossomcakes/static/css/main.eb7f5a68.css.map",
+    "main.c7496cbe.js.map": "/blossomcakes/static/js/main.c7496cbe.js.map",
     "453.f5975673.chunk.js.map": "/blossomcakes/static/js/453.f5975673.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d9caed3.css",
-    "static/js/main.e9308931.js"
+    "static/css/main.eb7f5a68.css",
+    "static/js/main.c7496cbe.js"
   ]
 }
