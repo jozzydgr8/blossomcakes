@@ -9,7 +9,7 @@ import hennessyCake from './assets/Henessy-cake.jpg';
 import jungleCake from './assets/jungle-cake.jpg';
 import lRWeddingCake from './assets/l&r-wedding-cake.jpg';
 import talkingDrumCake from './assets/talking-drum-cake.jpg';
-import traditionalCake from './assets/talking-drum-cake.jpg';
+import traditionalCake from './assets/traditional-cake.jpg';
 import whiteBirthdayCake from './assets/white-birthday-cake.jpg';
 import zylusChocCake from './assets/zylus-chocolate-cake.jpg' 
 export const Cakes = [
@@ -47,4 +47,34 @@ export const Cakes = [
         name:'jungle cake',
         category:''
     },
+    {
+        image:fortyBirthdayCake,
+        name: 'birthday cake',
+        category:''
+    },
+    {
+        image:fortyBottleCake,
+        name:'birthday cake customized wine bottle',
+        category:''
+    },
+    {
+        image:talkingDrumCake,
+        name:'talking drum cake',
+        category:''
+    },
+    {
+        image:traditionalCake,
+        name:'traditional cake',
+        category:''
+    },
+    {
+        image: whiteBirthdayCake,
+        name: 'white birthday cake',
+        category: ''
+    },
+    {
+        image: zylusChocCake,
+        name:'choclate customized cake',
+        category:""
+    }
 ]

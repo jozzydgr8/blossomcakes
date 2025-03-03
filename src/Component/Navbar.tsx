@@ -21,10 +21,10 @@ function Navbar() {
           <a className="nav-link" href="#">Find Us</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Occassion</a>
+          <a className="nav-link" href="#">Call Us</a>
         </li>
         <li className="nav-item">
-          <a  href='https://wa.link/o2oy0h'><button className="btn btn-danger">Contact Us</button></a>
+          <a  href='https://wa.link/o2oy0h'><button className="btn btn-danger">Message Us</button></a>
         
         </li>
       </ul>

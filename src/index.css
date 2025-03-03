@@ -155,3 +155,11 @@ nav .container-fluid{
     height: 50px;
   }
 }
+.footer-icons a {
+  font-size: 35px;
+}
+.footer-icons{
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
