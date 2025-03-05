@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/blossomcakes/static/css/main.14336297.css",
-    "main.js": "/blossomcakes/static/js/main.b31be9bb.js",
+    "main.css": "/blossomcakes/static/css/main.b70b67c0.css",
+    "main.js": "/blossomcakes/static/js/main.608611b4.js",
     "static/js/453.0f8aee64.chunk.js": "/blossomcakes/static/js/453.0f8aee64.chunk.js",
     "static/media/birthday-oreo-cake.jpg": "/blossomcakes/static/media/birthday-oreo-cake.1979e09e0f0c041b4596.jpg",
     "static/media/boss-baby-theme-cake.jpg": "/blossomcakes/static/media/boss-baby-theme-cake.055c0a6dd258f2dc10a9.jpg",
@@ -43,12 +43,12 @@
     "static/media/backgroundblossom.jpg": "/blossomcakes/static/media/backgroundblossom.ce8701d0db519e53ecfb.jpg",
     "static/media/blossomcakes-removebg-preview.png": "/blossomcakes/static/media/blossomcakes-removebg-preview.0a31880364bc0a79a49c.png",
     "index.html": "/blossomcakes/index.html",
-    "main.14336297.css.map": "/blossomcakes/static/css/main.14336297.css.map",
-    "main.b31be9bb.js.map": "/blossomcakes/static/js/main.b31be9bb.js.map",
+    "main.b70b67c0.css.map": "/blossomcakes/static/css/main.b70b67c0.css.map",
+    "main.608611b4.js.map": "/blossomcakes/static/js/main.608611b4.js.map",
     "453.0f8aee64.chunk.js.map": "/blossomcakes/static/js/453.0f8aee64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14336297.css",
-    "static/js/main.b31be9bb.js"
+    "static/css/main.b70b67c0.css",
+    "static/js/main.608611b4.js"
   ]
 }
