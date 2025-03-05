@@ -82,7 +82,7 @@ export const Cakes = [
     },
     {
         image: zylusChocCake,
-        name:'choclate customized cake',
+        name:'chocolate customized cake',
         category:""
     },
     {

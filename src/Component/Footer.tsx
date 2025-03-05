@@ -24,7 +24,7 @@ export const Footer = ()=>{
                         
                     <div className="col-md-4">
                         <h4>Quick Links</h4>
-                        <a href='tel:09114108561'>Call us now: +234 911 410 8561 </a>
+                        <a href='tel:08026992881'>Call us now: +234 802 699 2881 </a>
                         <br/> <br/>
                         <a href='https://wa.link/o2oy0h'>Send Us a message on Whatsapp <SendOutlined/></a><br/> <br/>
                         <a href='#'>Our Cakes</a><br/><br/>
@@ -32,8 +32,8 @@ export const Footer = ()=>{
                 </div>
                 <br/> <br/>
                 <div className='footer-icons'>
-                    <a><WhatsAppOutlined/></a>
-                    <a><InstagramOutlined/></a>
+                    <a href='https://wa.link/o2oy0h' target='_blank'><WhatsAppOutlined/></a>
+                    <a href='https://www.instagram.com/blossomcakes_delights_ng/' target='_blank'><InstagramOutlined/></a>
                     <a><FacebookOutlined/></a>
                     <a><XOutlined/></a>
                 </div>
