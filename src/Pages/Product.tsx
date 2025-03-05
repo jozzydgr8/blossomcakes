@@ -19,7 +19,7 @@ export const Product = ()=>{
                         <div key={index} >
                             <div  className="cakeDisplay" style={{background:`url(${cake.image})`, backgroundPosition:'center center', backgroundSize:'cover'}}>
                         </div>
-                        <p>{cake.name}</p>
+                        <p style={{textTransform:'capitalize'}}>{cake.name}</p>
                         </div>
                         
                     ))

@@ -10,8 +10,8 @@ export const Footer = ()=>{
                 <div className="row">
                     <div className="col-md-4">
                     <h4>Our Locations</h4>
-                        <EnvironmentOutlined/> 63 Our first Location, Bustop, State <br/><br/>
-                        <EnvironmentOutlined/> 65 Our Second Location, Bustop, State <br/><br/>
+                        <EnvironmentOutlined/> Blossom Cakes, Blenco Supermarket. Lekki Epe ExpWay, Lagos <br/><br/>
+                        <EnvironmentOutlined/> Blossom Delight, C7 Novare mall, Shoprite, sangotedo-Ajah, Lagos <br/><br/>
                     </div>
 
                     <div className="col-md-4">
@@ -19,7 +19,7 @@ export const Footer = ()=>{
                         Phone No: <a href='tel:08026992881'>+234 802 699 2881</a><br/><br/>
                         Phone No: <a href='tel:09114108461'>+234 911 410 8461</a><br/><br/>
                         Phone No: <a href='tel:08025590852'>+234 802 559 0852</a><br/><br/>
-                        Email: <a href='#'>Blossomexampleemail@email.com</a><br/><br/>
+                       
                     </div>
                         
                     <div className="col-md-4">

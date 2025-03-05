@@ -78,8 +78,11 @@ nav .container-fluid{
 .aboutgrid{
   min-height: 60vh;
 }
+.cakeBackground{
+  background-image: url('./assets/blossom-cake-background.jpg');
+}
 .cakeBackground,#contact{
-  background-image: url('./assets/cakeshowcase.jpg');
+  
   background-size: cover;
   background-position: center center;
 }
