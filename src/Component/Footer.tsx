@@ -12,6 +12,8 @@ export const Footer = ()=>{
                     <h4>Our Locations</h4>
                         <EnvironmentOutlined/> Blossom Cakes, Blenco Supermarket. Lekki Epe ExpWay, Lagos <br/><br/>
                         <EnvironmentOutlined/> Blossom Delight, C7 Novare mall, Shoprite, sangotedo-Ajah, Lagos <br/><br/>
+                        <EnvironmentOutlined/> Blossom House Km17, Opp Total Petrol Station Lekki-Epe ExpWay<br/><br/>
+                        
                     </div>
 
                     <div className="col-md-4">

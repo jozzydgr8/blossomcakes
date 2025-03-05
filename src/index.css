@@ -36,12 +36,12 @@ nav .container-fluid{
 
 
 .navbar-brand img{
-  width:40%;
+  width:60%;
 
 }
 @media (max-width:750px) {
   .navbar-brand img{
-    width:50%;
+    width:80%;
   
   }
   .navbar-brand{
