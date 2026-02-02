@@ -10,8 +10,8 @@ export const About = ()=>{
 
                     </div>
                     <div className="col-md-6 aboutgrid"style={{color:'white',padding:'3%',background:'black', display:"flex", gap:'20px', justifyContent:'center', flexDirection:'column'}}>
-                        <h4>Blossom cakes is Your Go-To for Delicious Cakes in Lagos</h4>
-                        <p>
+                        <h4 className="animate-down">Blossom cakes is Your Go-To for Delicious Cakes in Lagos</h4>
+                        <p className="animate-up">
                         At Blossom Cakes, we offer a variety of freshly baked cakes in irresistible flavors such as vanilla, chocolate, butterscotch, strawberry, coconut, banana, Irish cream, and more.
 
                         Choose from different shapes, colors, sizes, and creative designs,
@@ -21,7 +21,7 @@ export const About = ()=>{
                                                     
                         </p>
                         <br/>
-                        <a href='https://wa.link/o2oy0h'><button className="btn btn-danger">Contact Us Now <SendOutlined/></button></a>
+                        <a href='https://wa.link/o2oy0h'><button className="btn btn-danger animate-up">Contact Us Now <SendOutlined/></button></a>
                         
                     </div>
                 </div>

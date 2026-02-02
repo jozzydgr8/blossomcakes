@@ -2,7 +2,7 @@
 import heartIcon from '../assets/hearticon.png';
 import priceTag from '../assets/pricetag.png';
 import chefIcon from '../assets/cheficon.png'
-const divStyle = {display:'flex', alignItems:'center', gap:'10px'}
+
 export const Header:React.FC = ()=>{
     return(
         <section id="header-section">
