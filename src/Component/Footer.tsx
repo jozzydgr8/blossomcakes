@@ -41,6 +41,8 @@ export const Footer = ()=>{
                 </div>
                 <br/> <br/>
                 <small>© Blossomcakes 2025</small>
+                <hr/>
+                <a href='https://jozzycodes.com' target='blank' rel='no-referrer'><small>website created by Jozzycodes</small></a>
             </div>
         </section>
     )
