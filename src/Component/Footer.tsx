@@ -3,6 +3,8 @@ import { WhatsAppOutlined } from '@ant-design/icons';
 import { InstagramOutlined } from '@ant-design/icons';
 import { FacebookOutlined } from '@ant-design/icons';
 import { XOutlined } from '@ant-design/icons';
+
+const year = new Date().getFullYear()
 export const Footer = ()=>{
     return(
         <section id="footer">
@@ -40,9 +42,9 @@ export const Footer = ()=>{
                     <a><XOutlined/></a>
                 </div>
                 <br/> <br/>
-                <small>© Blossomcakes 2025</small>
+                <small>© Blossomcakes {year}</small>
                 <hr/>
-                <a href='https://jozzycodes.com' target='blank' rel='no-referrer'><small>website created by Jozzycodes</small></a>
+                <a href='https://jozzycodes.com' target='blank' rel='noreferrer'><small>website created by Jozzycodes</small></a>
             </div>
         </section>
     )
